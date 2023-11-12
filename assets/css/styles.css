@@ -5,6 +5,12 @@
     --primary-color: #0f1b4c;
 }
 
+html,
+body {
+    /* click vào menu item ở header chuyển động mượt mà đến nội dung*/
+    scroll-behavior: smooth;
+}
+
 html {
     font-size: 62.5%;
 }
